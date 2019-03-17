@@ -1,2 +1,2 @@
-# c
-The main aim is to study "C" via online material predominantly CS50.
+# react
+learn and work on the projects of reacts under learn it girl.
